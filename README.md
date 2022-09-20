@@ -1,4 +1,4 @@
-#Dice-app-game
+Dice-app-game
 ##A fun game for 2 individuals during leisure hours GAME RULES:
 
 The game has 2 players, playing in rounds
